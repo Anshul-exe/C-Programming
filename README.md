@@ -1,7 +1,7 @@
 # C PROGRAMMING NOTES
 
 
-**IDE** - Helps us in writing codes by correcting our methods  etc... for eg VSCode
+##**IDE** - Helps us in writing codes by correcting our methods  etc... for eg VSCode
 Compiler - Helps to run the code and convert it into machine language for our CPU to understand it... for eg mingw
 
 **THINGS IN C CODE**
