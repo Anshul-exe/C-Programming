@@ -35,7 +35,7 @@ Helps to run the code and convert it into machine language for our CPU to unders
 * Invalid variable name: $anshul, int 77anshull , char long;
  
 ## Data types in c:
-* Basic data type: <int>, char, float, double
+* Basic data type: <code>int</code>, char, float, double
 * Dervied data type: array, pointer, structure, union
 * Enumeration data type: emun
 * Void data type: void
