@@ -7,8 +7,8 @@ Helps us in writing codes by correcting our methods  etc... for eg VSCode
 Helps to run the code and convert it into machine language for our CPU to understand it... for eg mingw
 
 ## THINGS IN C CODE:
-- pre prcessor commands - #include<stdio.h>... studio.h file ki necessity hai is program me so vo vali file include kro
-- funtions - int main()... program ko break krne ke liye use hota hai taki alg alg cheeze perform kr pae (int main alg hota hai coz vaha se program ka execution shuru hota... 'main' isme function ka name hai and 'int' ye function return krta hai, ye dusre functions ko call krta hai taki dusre functions return me answer krte hai 
+- pre prcessor commands - <code>#include<stdio.h></code>... studio.h file ki necessity hai is program me so vo vali file include kro
+- funtions - <code>int main()</code>... program ko break krne ke liye use hota hai taki alg alg cheeze perform kr pae <code>int main()</code> alg hota hai coz vaha se program ka execution shuru hota... <code>main</code> isme function ka name hai and <code>int</code> ye function return krta hai, ye dusre functions ko call krta hai taki dusre functions return me answer krte hai 
 * variables
 * statements
 * expressions
@@ -23,19 +23,19 @@ Helps to run the code and convert it into machine language for our CPU to unders
 
 ## What is variable:
 * A name given to a memory location
-* Declared by writing type variable_name
-* Initialized and declared by type variable_name = value;
+* Declared by writing type <code>variable_name</code>
+* Initialized and declared by type <code>variable_name = value;</code>
 
 ## RULES FOR VARIABLES:
 * Can contain alphabets, digits, and underscore
 * A variable  name can start with an alphabet and undercore only
 * Can't start with a digit
 * No whitespace & reserved  keywords is allowed
-* Valid varibles names: int anshul, float anshul123, char _anshul34
-* Invalid variable name: $anshul, int 77anshull , char long;
+* Valid varibles names: <code>int anshul</code>, <code>float anshul123</code>, <code>char _anshul34</code>
+* Invalid variable name: <code>$anshul</code>, <code>int 77anshull</code> , <code>char long</code>;
  
 ## Data types in c:
-* Basic data type: <code>int</code>, char, float, double
+* Basic data type: int, char, float, double
 * Dervied data type: array, pointer, structure, union
 * Enumeration data type: emun
 * Void data type: void
