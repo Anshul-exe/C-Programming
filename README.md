@@ -7,7 +7,7 @@ Helps us in writing codes by correcting our methods  etc... for eg VSCode
 Helps to run the code and convert it into machine language for our CPU to understand it... for eg mingw
 
 ## THINGS IN C CODE:
--pre prcessor commands - #include<stdio.h>... studio.h file ki necessity hai is program me so vo vali file include kro
+- pre prcessor commands - #include<stdio.h>... studio.h file ki necessity hai is program me so vo vali file include kro
 funtions - int main()... program ko break krne ke liye use hota hai taki alg alg cheeze perform kr pae (int main alg hota hai coz vaha se program ka execution shuru hota... 'main' isme function ka name hai and 'int' ye function return krta hai, ye dusre functions ko call krta hai taki dusre functions return me answer krte hai 
 variables
 statements
