@@ -1,8 +1,10 @@
 # C PROGRAMMING NOTES
 
 
-##**IDE** - Helps us in writing codes by correcting our methods  etc... for eg VSCode
-Compiler - Helps to run the code and convert it into machine language for our CPU to understand it... for eg mingw
+## **IDE** 
+Helps us in writing codes by correcting our methods  etc... for eg VSCode
+## Compiler
+Helps to run the code and convert it into machine language for our CPU to understand it... for eg mingw
 
 **THINGS IN C CODE**
 pre prcessor commands - #include<stdio.h>... studio.h file ki necessity hai is program me so vo vali file include kro
