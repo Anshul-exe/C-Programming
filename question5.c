@@ -22,4 +22,8 @@ int main()
         printf("YOU ARE AN OUTSTANDING STUDENT!!");
     }
     return 0;
+<<<<<<< HEAD
 }
+=======
+} 
+>>>>>>> origin/main
